@@ -1,0 +1,160 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "David Walker, Kendra Nichols, Grace Moon",
+            "title": "Russia-Ukraine war latest updates - The Washington Post",
+            "description": "Russian Foreign Minister Sergei Lavrov is in Congo. Ukraine eyes Kherson in southern counteroffensive.",
+            "url": "https://www.washingtonpost.com/world/2022/07/25/russia-ukraine-war-latest-updates/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3LEA6ZGZOBAFLH7VEJLWJZN63E.jpg&w=1440",
+            "publishedAt": "2022-07-25T14:43:18Z",
+            "content": "Return to menuA Virginia familys push to give a Ukrainian orphan respite from war. Shortly after they met the energetic brown-haired, blue-eyed, 9-year-old girl from Ukraine, Jenny Bradshaw, her husb… [+1168 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Myanmar: Military executes four democracy activists including ex-MP - BBC",
+            "description": "The executions mark the first cases of capital punishment in the country in decades.",
+            "url": "https://www.bbc.com/news/world-asia-62287815",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/71D7/production/_126034192_c5a08ced9abcdda455f9be7d4cba2d023bec59a1.jpg",
+            "publishedAt": "2022-07-25T13:46:56Z",
+            "content": "By Zubaidah Abdul JalilBBC News\r\nFour democracy activists have been executed by Myanmar's military in what is believed to be the first use of capital punishment in decades. \r\nThe four - including act… [+5000 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Analysis by Peter Nickeas and Ray Sanchez, CNN",
+            "title": "CNN review of videos shows Uvalde school chief in central role during unfolding massacre - CNN",
+            "description": "The first publicly released body-worn camera videos from officers at the Robb Elementary School massacre show Pedro \"Pete\" Arredondo, the school district's police chief, at the center of the police response: giving orders, conveying and receiving information,…",
+            "url": "https://www.cnn.com/2022/07/25/us/uvalde-video-pete-arredondo-police-response/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220718153047-01-uvalde-school-shooting-video-super-tease.jpg",
+            "publishedAt": "2022-07-25T13:39:00Z",
+            "content": "(CNN)The first publicly released body-worn camera videos from officers at the Robb Elementary School massacre show Pedro \"Pete\" Arredondo, the school district's police chief, at the center of the pol… [+21135 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Anders Hagstrom",
+            "title": "Breaching whale jumps out of ocean and lands on top of a Massachusetts fishing boat - Fox News",
+            "description": "Shocking video shows a whale soaring out of the water and crashing into the bow of a fishing boat in Massachusetts on Sunday. No Injuries were reported, however.",
+            "url": "https://www.foxnews.com/us/breaching-whale-jumps-ocean-lands-top-massachusetts-fishing-boat",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/07/whale-mass.jpg",
+            "publishedAt": "2022-07-25T13:12:56Z",
+            "content": "A breaching whale crashed into a fishing boat in Massachusetts on Sunday in shocking footage posted to social media.\r\nVideo shows a boat anchored off of White Horse Beach in Plymouth, MA when a large… [+489 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Michael Warren, CNN",
+            "title": "Pence to offer roadmap for conservatives in DC speech ahead of Trump's return to the nation's capital - CNN",
+            "description": "Former Vice President Mike Pence will sound very much like a White House hopeful looking to lead his party beyond former President Donald Trump when he touts his \"freedom agenda\" for the Republican Party in a speech in Washington on Monday evening.",
+            "url": "https://www.cnn.com/2022/07/25/politics/mike-pence-roadmap-speech/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220725081221-mike-pence-0720-super-tease.jpg",
+            "publishedAt": "2022-07-25T13:12:00Z",
+            "content": "(CNN)Former Vice President Mike Pence will sound very much like a White House hopeful looking to lead his party beyond former President Donald Trump when he touts his \"freedom agenda\" for the Republi… [+7533 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Alex Sherman",
+            "title": "National Football League's new streaming service NFL+ launches at $4.99 per month - CNBC",
+            "description": "The NFL's new streaming service will include out-of-market preseason games and mobile access to local and prime-time games.",
+            "url": "https://www.cnbc.com/2022/07/25/national-football-leagues-new-streaming-service-nfl-launches-at-4point99-per-month.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107034296-1647896188392-chase.jpg?v=1647896317&w=1920&h=1080",
+            "publishedAt": "2022-07-25T13:00:01Z",
+            "content": "The National Football League now has its own streaming service.\r\nPremiering Monday, the NFL is launching NFL+ for $4.99 per month or $39.99 per year.\r\nA subscription will include all out-of-market pr… [+2827 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BuzzFeed News"
+            },
+            "author": "Ellen Durney",
+            "title": "Keke Palmer Shut Down A Viral Debate Comparing Her And Zendaya’s “Mainstream Popularity” And Called It “A Great Example Of Colorism” - BuzzFeed News",
+            "description": "Amid her widely acclaimed performance in Nope, Keke found herself at the center of a viral debate comparing the “mainstream popularity” of herself and fellow actor Zendaya.",
+            "url": "https://www.buzzfeednews.com/article/ellendurney/keke-palmer-shut-down-zendaya-comparisons-on-twitter",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2022-07/25/11/enhanced/526085edf565/original-532-1658749990-6.jpg?crop=1243:651;0,8%26downsize=1250:*",
+            "publishedAt": "2022-07-25T12:50:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Celina Tebor, USA TODAY",
+            "title": "Oak Fire near Yosemite National Park forces evacuations in California - USA TODAY",
+            "description": "The Oak Fire erupted Friday in Mariposa County, where a state of emergency was declared Sunday. It's one of the state's largest fires this year.",
+            "url": "https://www.usatoday.com/story/news/nation/2022/07/24/oak-fire-wildfire-yosemite-national-park-evacuation/10139891002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/07/24/USAT/3ecea799-e7aa-4ce9-b849-090710f32b96-4645.JPG?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
+            "publishedAt": "2022-07-25T12:45:00Z",
+            "content": "One of California's biggest wildfires this year exploded to over 21 square miles Sunday, forcing thousands to flee remote mountain communities as the blaze near Yosemite National Park burned out of c… [+2276 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "'Missile alert': Taiwan holds air-raid exercise amid China tension - Reuters.com",
+            "description": "Roads emptied and people were ordered to stay indoors in parts of Taiwan, including its capital Taipei, on Monday for an air-raid exercise as the island steps up preparations in the event of a Chinese attack.",
+            "url": "https://www.reuters.com/world/asia-pacific/missile-alert-taiwan-holds-air-raid-exercise-amid-china-tension-2022-07-25/",
+            "urlToImage": "https://www.reuters.com/resizer/7z4AXXJoL6fBVT76-u_X3D--Diw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/432KK6SMB5PIDDLH3SZAHVMONQ.jpg",
+            "publishedAt": "2022-07-25T12:34:00Z",
+            "content": "TAIPEI, July 25 (Reuters) - Roads emptied and people were ordered to stay indoors in parts of Taiwan, including its capital Taipei, on Monday for an air-raid exercise as the island steps up preparati… [+2956 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Ben Cost",
+            "title": "David Warner, 'Titanic' and 'Omen' actor, dead at 80 - New York Post ",
+            "description": "David Warner, a UK character-actor best known for his roles in “Titanic” and “The Omen,” died Sunday at 80.",
+            "url": "https://nypost.com/2022/07/25/david-warner-titanic-and-omen-actor-dead-at-80/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/07/David-Warner-1.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2022-07-25T12:24:00Z",
+            "content": "David Warner, a UK character actor best known for his roles in “Titanic” and “The Omen,” died Sunday from a “cancer-related illness.” He was 80 years old.\r\nThe veteran thespian’s family confirmed his… [+2801 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Anna Cooban, CNN Business",
+            "title": "Elon Musk denies affair with Sergey Brin's wife Nicole Shanahan - CNN",
+            "description": "Elon Musk has denied having an affair with Nicole Shanahan, the wife of Google's co-founder, Sergey Brin.",
+            "url": "https://www.cnn.com/2022/07/25/media/elon-musk-affair-sergey-brin-wife-nicole-shanahan/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220712190353-elon-musk-file-0712-super-tease.jpg",
+            "publishedAt": "2022-07-25T12:21:00Z",
+            "content": "Yeah, the character assassination attacks have reached a new level this year, but the articles are all nothing-burgers. \r\nI work crazy hours, so there just isn't much time for shenanigans.\r\nNone of t… [+112 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Milwaukee Journal Sentinel"
+            },
+            "author": "Bill Glauber",
+            "title": "Tom Nelson drops out of Wisconsin Democratic U.S. Senate primary, throws support to Mandela Barnes - Milwaukee Journal Sentinel",
+            "description": "Nelson was running fourth in the polls, but his move could provide a boost for Mandela Barnes, who is in a tight race with Alex Lasry.",
+            "url": "https://www.jsonline.com/story/news/politics/elections/2022/07/25/tom-nelson-bows-out-wisconsin-senate-race-supports-mandela-barnes/10140218002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/07/18/PMJS/51721ee3-45f0-49d4-a096-034d60cf4563-demdebate19_demdebate_3123.JPG?crop=3899,2194,x0,y287&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2022-07-25T12:05:31Z",
+            "content": "Outagamie County Executive Tom Nelson's long run for the U.S. Senate is over.\r\nNelson announced Monday that he was ending his Democratic primary campaign and throwing his support to Lt. Gov. Mandela … [+4261 chars]"
+        }]}
